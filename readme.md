@@ -14,6 +14,10 @@
 
 ## javascript
 
+- [ Simple examples to demonstrate various aspects of the Web Audio API..](https://github.com/lonekorean/hello-houdini)<kbd>github</kbd><kbd>en</kbd>
+
+> [🔗-Explore the site](http://kylestetz.github.io/Web-Audio-Basics/)<kbd>github.io</kbd>
+
 ### 1. vue
 
 - [`vue 有关 slot-scope 2.5.* example`](https://jsfiddle.net/yobrave1995/v41vbz7r/)<kbd>jsfiddle</kbd>
@@ -25,3 +29,4 @@
 - [Houdini's CSS Paint API.](https://github.com/lonekorean/hello-houdini)<kbd>github</kbd><kbd>en</kbd>
 
 > [🔗-网上玩弄](https://hello-houdini.herokuapp.com/)<kbd>heroku</kbd>
+
