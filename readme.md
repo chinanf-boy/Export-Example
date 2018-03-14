@@ -24,15 +24,22 @@
 
 ### 1. vue
 
-- [`vue 有关 slot-scope 2.5.* example`](https://jsfiddle.net/yobrave1995/v41vbz7r/)<kbd>jsfiddle</kbd>
+- [`vue 有关 slot-scope 2.5.* example`](https://jsfiddle.net/yobrave1995/v41vbz7r/)-<kbd>jsfiddle</kbd>
 
-> [🔗 作用域插槽 slot-scope - cn.vue.org](https://cn.vuejs.org/v2/api/#slot-scope)<kbd>官网</kbd>
+> [🔗 作用域插槽 slot-scope - cn.vue.org](https://cn.vuejs.org/v2/api/#slot-scope)-<kbd>官网</kbd>
 
-<p align="center">🧡</p>
+<p align="center">》-----🧡。❤️-----《</p>
 
-- [`Plugin for vue cli 3 with vuetify`](https://github.com/vuetifyjs/vue-cli-plugin-vuetify)<kbd>github</kbd>/<kbd>en</kbd>
+- [`Plugin for vue cli 3 with vuetify`](https://github.com/vuetifyjs/vue-cli-plugin-vuetify)-<kbd>github</kbd>/<kbd>en</kbd>
 
-> [🔗 vuetify Material Component Framework for Vue.js 2](https://vuetifyjs.com/)<kbd>com</kbd>
+> [🔗 vuetify Material Component Framework for Vue.js 2](https://vuetifyjs.com/)-<kbd>com</kbd>
+
+<p align="center">》-----🧡。❤️-----《</p>
+
+- [`Vue CLI 3.x plugin to add buefy to your Vue Project`](https://github.com/buefy/vue-cli-plugin-buefy)-<kbd>github</kbd>/<kbd>en</kbd>
+
+> [🔗 Lightweight UI components for Vue.js based on Bulma ](https://buefy.github.io/)-<kbd>github</kbd>
+
 
 
 ---
