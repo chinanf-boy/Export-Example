@@ -21,9 +21,17 @@
 
 > [🔗-Explore the site](http://kylestetz.github.io/Web-Audio-Basics/)<kbd>github</kbd>
 
+<p align="center">--🧡。❤️--</p>
+
 0.2 [ Example Koa apps](https://github.com/koajs/examples)-<kbd>github</kbd>/<kbd>en</kbd>
 
-> [🔗-koajs : Expressive middleware for node.js using ES2017 async functions](http://kylestetz.github.io/Web-Audio-Basics/)<kbd>github.io</kbd>
+> [🔗-koajs : Expressive middleware for node.js using ES2017 async functions](http://kylestetz.github.io/Web-Audio-Basics/)<kbd>github</kbd>
+
+<p align="center">--🧡。❤️--</p>
+
+0.3 [ Examples and best practices for using analytics.js](https://github.com/philipwalton/analyticsjs-boilerplate)-<kbd>github</kbd>/<kbd>en</kbd>
+
+> [🔗-The Google Analytics Setup I Use on Every Site I Build](https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build/)<kbd>google </kbd><kbd>com</kbd>
 
 ---
 
@@ -77,6 +85,8 @@
 - [This is an example project to accompany a tutorial on using Rollup. !](https://github.com/jlengstorf/learn-rollupo)-<kbd>github</kbd>/<kbd>en</kbd>/<kbd>rollup</kbd>
 
 > [🔗-sample project](https://code.lengstorf.com/learn-rollup-js/)-<kbd>com</kbd>
+
+---
 
 ## 0. go
 
