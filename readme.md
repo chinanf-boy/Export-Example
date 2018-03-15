@@ -33,6 +33,12 @@
 
 > [🔗-The Google Analytics Setup I Use on Every Site I Build](https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build/)<kbd>google </kbd><kbd>com</kbd>
 
+<p align="center">--🧡。❤️--</p>
+
+0.4 [ Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.](https://github.com/nefe/You-Dont-Need-jQuery)-<kbd>github</kbd>/<kbd>en</kbd>/<kbd>You-Dont-Need-jQuery</kbd>
+
+> [🔗-Jquery : jQuery JavaScript Library](https://github.com/jquery/jquery)<kbd>github</kbd><kbd>com</kbd>
+
 ---
 
 ### 1. vue
