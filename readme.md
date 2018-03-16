@@ -39,6 +39,12 @@
 
 > [🔗-Jquery : jQuery JavaScript Library](https://github.com/jquery/jquery)<kbd>github</kbd><kbd>com</kbd>
 
+<p align="center">--🧡。❤️--</p>
+
+0.5 [ A series of Offline First shopping list demo apps, each built using a different stack.](https://github.com/ibm-watson-data-lab/shopping-list)-<kbd>github</kbd>/<kbd>en</kbd>/<kbd>shopping-list</kbd>
+
+> [🔗-github site](https://ibm-watson-data-lab.github.io/shopping-list/)<kbd>github</kbd>
+
 ---
 
 ### 1. vue
