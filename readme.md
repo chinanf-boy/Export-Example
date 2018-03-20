@@ -41,7 +41,13 @@
 
 <p align="center">--🧡。❤️--</p>
 
-0.5 [ A series of Offline First shopping list demo apps, each built using a different stack.](https://github.com/ibm-watson-data-lab/shopping-list)-<kbd>github</kbd>/<kbd>en</kbd>/<kbd>shopping-list</kbd>
+0.5 [ Alexa like assistant in 40 lines of code ](https://github.com/Jense5/robinjs-website)-<kbd>github</kbd>/<kbd>en</kbd>/<kbd>webkitSpeechRecognition</kbd>/<kbd>SpeechSynthesisUtterance</kbd>
+
+> [🔗  -example online- ](https://robinjs.party/)<kbd>online</kbd>
+
+---
+
+0.6 [ A series of Offline First shopping list demo apps, each built using a different stack.](https://github.com/ibm-watson-data-lab/shopping-list)-<kbd>github</kbd>/<kbd>en</kbd>/<kbd>shopping-list</kbd>
 
 > [🔗-github site](https://ibm-watson-data-lab.github.io/shopping-list/)<kbd>github</kbd>
 
