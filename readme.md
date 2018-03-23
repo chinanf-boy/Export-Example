@@ -79,7 +79,6 @@
 
 > [🔗 Storybook : Interactive UI component dev & test: React, React Native, Vue, Angular ](https://github.com/storybooks/storybook)-<kbd>github</kbd>
 
-
 ---
 
 ### 2. css
@@ -88,6 +87,9 @@
 
 > [🔗-网上玩弄](https://hello-houdini.herokuapp.com/)-<kbd>heroku</kbd>
 
+- [`content loader for svg Example`](http://jsbin.com/ramosepaxo/1/edit?html,output)-<kbd>jsbin</kbd>/<kbd>svg</kbd>
+
+> [🔗 Svg 的 API - mdn ](https://developer.mozilla.org/zh-CN/docs/Web/SVG)-<kbd>mozilla</kbd>
 ---
 
 ### 3. react
